@@ -1,0 +1,25 @@
+{
+  "name": "resolve-queue",
+  "version": "1.0.0",
+  "description": "Resolve multiple asynchronous requests to a resource once with a resolver.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/resolve-cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/resolve-cache/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/resolve-cache#readme"
+}
