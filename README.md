@@ -13,7 +13,7 @@ var getSomeFile = resolveQueue(function(callback){
 
     }, {
         immediate: false,
-        cacheResult: true
+        cacheResult: false
     });
 
 // Begins loading file.
