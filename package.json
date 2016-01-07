@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KoryNunn/resolve-cache.git"
+    "url": "git+https://github.com/KoryNunn/resolve-queue.git"
   },
   "bugs": {
-    "url": "https://github.com/KoryNunn/resolve-cache/issues"
+    "url": "https://github.com/KoryNunn/resolve-queue/issues"
   },
-  "homepage": "https://github.com/KoryNunn/resolve-cache#readme"
+  "homepage": "https://github.com/KoryNunn/resolve-queue#readme"
 }
