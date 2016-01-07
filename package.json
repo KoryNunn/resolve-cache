@@ -1,6 +1,6 @@
 {
   "name": "resolve-queue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Resolve multiple asynchronous requests to a resource once with a resolver.",
   "main": "index.js",
   "scripts": {
